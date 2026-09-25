@@ -1,5 +1,5 @@
 <?php
-// Program: check whether a number is divisible by 3, 5, both, or neither
+// check divisible by 3, 5, both, or neither
 
 $number = 15; // You can change this value
 
